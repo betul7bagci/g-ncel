@@ -1,0 +1,50 @@
+.horizontal-categories {
+  align-items: center;
+  justify-content: space-between;
+  background-color: #355ad3;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.faci-text {
+  text-align: center;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+
+}
+
+.baslik {
+  font-size: 20px;
+  color: rgb(221, 224, 230);
+  font-weight: bold;
+
+
+
+}
+
+.icerik {
+  font-size: 20px;
+  color: rgb(13, 22, 73);
+  font-weight: bold;
+
+
+}
+
+.name {
+  font-size: 30px;
+  color: rgb(255, 251, 18);
+  font-weight: bold;
+
+
+}
+
+
+.image {
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+  border: 5px solid #e8eaec;
+  border-radius: 5px;
+}

@@ -1,0 +1,20 @@
+
+.card {
+    background-color: #768edf;
+  }
+  
+  .card p {
+    margin: 5px 0;
+    color: #240ee9;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .card h1 {
+    color: #e6e2e2;
+    font-weight: bold;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+  }
+  
