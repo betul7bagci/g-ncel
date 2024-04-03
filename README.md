@@ -16,9 +16,7 @@ Ayrıca projemde yararlandığım kütüphaneler;
 -React-router-dom
 
 Projemin vercel.com linki;
-spor-tesisi-tiys.vercel.app
-spor-tesisi-tiys-git-master-betul7bagcis-projects.vercel.app
-spor-tesisi-tiys-4my0zmv0n-betul7bagcis-projects.vercel.app
+guencel.vercel.app
 
 
 Öğrenmek için daha önümde uzun bir yol olduğunun farkındayım. Fakat temel seviyede kendi bilgilerim ve chatgpt'nin de yardımıyla istediğim sayfayı istediğim şekilde oluşturabildiğim için mutluyum. öncelikle kendi beklentilerimi karşıladığım için 
